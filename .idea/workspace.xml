@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47cf732a-4f42-44ba-ad5e-b97cacfd7267" name="Changes" comment="commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GljQ1eCA0lab2UpeSvZiaNOtie" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/INCUBATOR/tuesday_week_2/advanced_counter",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "E:\\INCUBATOR\\tuesday_week_2\\advanced_counter\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47cf732a-4f42-44ba-ad5e-b97cacfd7267" name="Changes" comment="" />
+      <created>1666970044427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666970044427</updated>
+      <workItem from="1666970046433" duration="5914000" />
+      <workItem from="1666976296629" duration="14000" />
+      <workItem from="1666995354670" duration="9000" />
+      <workItem from="1667571072920" duration="18409000" />
+      <workItem from="1667593609133" duration="1141000" />
+      <workItem from="1667596001824" duration="277000" />
+      <workItem from="1667743256751" duration="732000" />
+      <workItem from="1667748590154" duration="9000" />
+      <workItem from="1668258661723" duration="103000" />
+      <workItem from="1668271742116" duration="33000" />
+      <workItem from="1668272195137" duration="2548000" />
+      <workItem from="1668280997437" duration="428000" />
+      <workItem from="1668347121644" duration="1343000" />
+      <workItem from="1668353245771" duration="45000" />
+      <workItem from="1668353708667" duration="65000" />
+      <workItem from="1668355861645" duration="5559000" />
+      <workItem from="1668363228429" duration="10138000" />
+      <workItem from="1668374237484" duration="850000" />
+      <workItem from="1668597629204" duration="251000" />
+      <workItem from="1668624030813" duration="9085000" />
+      <workItem from="1668673120653" duration="119000" />
+      <workItem from="1668964028447" duration="6487000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1666975130304</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666975130304</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+</project>
